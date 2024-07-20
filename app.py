@@ -99,4 +99,5 @@ def fetch_data_route():
 
 
 if __name__ == '__main__':
+    load.py
     app.run(debug=True)
