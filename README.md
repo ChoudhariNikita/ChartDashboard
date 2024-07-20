@@ -9,8 +9,8 @@ This is a simple admin dashboard that fetches data from a MySQL database and vis
 ### 1. Clone This Repository
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone "https://github.com/ChoudhariNikita/ChartDashboard.git"
+cd ChartDashboard
 ```
 
 ### 2. Install Required Dependencies
