@@ -160,5 +160,3 @@ Werkzeug==3.0.1
 wheel==0.43.0
 widgetsnbextension==4.0.10
 ws4py==0.5.1
-MYSQLCLIENT_CFLAGS=-I/usr/include/mysql
-MYSQLCLIENT_LDFLAGS=-L/usr/lib/x86_64-linux-gnu -lmysqlclient
